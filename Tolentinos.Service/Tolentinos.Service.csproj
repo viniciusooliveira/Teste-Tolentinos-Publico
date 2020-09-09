@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tolentinos.Helpers.Util\Tolentinos.Helpers.Util.csproj" />
+    <ProjectReference Include="..\Tolentinos.Infra.Data\Tolentinos.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
