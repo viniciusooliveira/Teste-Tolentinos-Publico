@@ -4,6 +4,7 @@ O teste foi desenvolvido utilizando as seguintes tecnologias:
 - **.Net Core 3.1**
 - **MariaDB** para persistência de dados
 - **Redis** como cache
+- **AWS S3** parar armazenamento do conteúdo estático
 
 # Como executar
 Após clonar o repositório, acessar a pasta do projeto e configurar as chaves de acesso da AWS, você poderá executar o projeto através destes dois métodos:
